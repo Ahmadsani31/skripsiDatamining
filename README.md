@@ -1,0 +1,2 @@
+# skripsiDatamining
+datamining dan jst
